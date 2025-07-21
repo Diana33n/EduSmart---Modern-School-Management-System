@@ -74,11 +74,11 @@ The system flow, use-cases, and architecture diagrams are available in the attac
 
 | Name            | Student Number |
 | --------------- | -------------- |
+| Diana Naseer    | 1210363        |
 | Sarah Hassouneh | 1210068        |
 | Dana Hafithah   | 1211234        |
 | Doaa Hatu       | 1211088        |
 | Leen Daraghmeh  | 1210904        |
-| Diana Naseer    | 1210363        |
 
 Instructor: Dr. Samer Zein
 Course: COMP433 - Phase 4
